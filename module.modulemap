@@ -1,0 +1,5 @@
+module Ortp [system] {
+    header "/usr/local/include/ortp/ortp.h"
+    link "ortp"
+    export *
+}
